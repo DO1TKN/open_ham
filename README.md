@@ -1,2 +1,2 @@
 # open_ham
-my fhamfiles to share
+my hamfiles to share
